@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harpreetdhamu
+- 👋 Hi, I’m Harpreet Dhamu
 - 👀 I’m interested in App development, Embedded Systems and IOT.
 - 🌱 I’m currently learning Android Development
 - 💞- 📫 How to reach me ->
